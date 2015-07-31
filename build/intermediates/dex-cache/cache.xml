@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/r.stepanyak/Work/AndroidProjects/ScreenCapture/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/r.stepanyak/Work/AndroidProjects/ScreenCapture/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-582c6cce92be788d6a06a06fe434dbfd26d63a74.jar" />
+    </item>
+    <item
+        jar="/Users/r.stepanyak/Work/AndroidProjects/ScreenCapture/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Users/r.stepanyak/Work/AndroidProjects/ScreenCapture/app/build/intermediates/pre-dexed/debug/classes-19da471fd48a4f94a603bb399093c99a9ffc13fd.jar" />
+    </item>
+    <item
+        jar="/Users/r.stepanyak/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/r.stepanyak/Work/AndroidProjects/ScreenCapture/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-42f293a8603a4a4cf792e5bec16a3809f66e6572.jar" />
+    </item>
+    <item
+        jar="/Users/r.stepanyak/Work/AndroidProjects/ScreenCapture/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/r.stepanyak/Work/AndroidProjects/ScreenCapture/app/build/intermediates/pre-dexed/debug/classes-aecc00d585b5b3b54f8b0f77d0decee44310fd7a.jar" />
+    </item>
+    <item
+        jar="/Users/r.stepanyak/Work/AndroidProjects/ScreenCapture/app/src/main/java/libs/greendao-2.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5f49dd477c1621dfaf0f7fe5d755fe4f07526af2">
+        <dex dex="/Users/r.stepanyak/Work/AndroidProjects/ScreenCapture/app/build/intermediates/pre-dexed/debug/greendao-2.0.0-40a7b6f53178f34346cd709e8a3f51a8bfb3e5a4.jar" />
+    </item>
+
+</items>
